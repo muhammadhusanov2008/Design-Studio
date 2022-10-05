@@ -1,0 +1,113 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+.about{
+    background: url('odamlar.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.menu{
+    color: white;
+    background: rgb(71, 71, 71);
+    display: flex;
+    justify-content: space-around;
+}
+.brend h1{
+    font-size: 50px;
+}
+ul{
+    justify-content: space-around;
+    display: flex;
+}
+.ul{
+    margin-top: 20px;
+}
+li{
+    margin-left: 10px;
+    list-style: none;
+}
+.text{
+    color: white;
+    padding: 20px;
+    background: rgb(71, 71, 71);
+    text-align: center;
+    margin-top: 30%;
+}
+.text h1{
+    font-size: 50px;
+}
+.company{
+    background: rgb(71, 71, 71);
+}
+.company h1{
+    color: white;
+}
+.dolor{
+    color: rgb(71, 71, 71);
+    font-weight: bold;
+}
+.dolor img{
+    border-radius: 50%;
+    width: 200px;
+}
+.button{
+    padding: 10px;
+    border-radius: 10px;
+    background: rgb(71, 71, 71);
+    color: white;
+    border: none;
+}
+.katta{
+    display: flex;
+    justify-content: space-around;
+    color: rgb(255, 255, 255);
+}
+.studio_about h1{
+    text-align: center;
+    color: rgb(255, 255, 255);
+}
+.studio_about{
+    background: rgb(71, 71, 71);
+    color: white;
+}
+.studio_content h1{
+    font-size: 70px;
+    font-weight: bold;
+}
+.studio_content{
+    font-weight: bold;
+    color: rgb(71, 71, 71);
+}
+.telefon img{
+    width: 200px;
+    height: 200px;
+}
+.latest{
+    background: rgb(71, 71, 71);
+}
+.start{
+    text-align: center;
+    padding:;
+}
+.baka{
+    /* margin-left: 10px; */
+    border-radius: 10px;
+    /* margin-left: 1px; */
+}
+.baka p{
+    padding: 10px;
+    border-bottom: 2px solid rgb(71, 71, 71);
+}
+.headline{
+    padding: 50px;
+    color: white;
+    background: rgb(71, 71, 71);
+}
+.oxirgi{
+    padding: 20px;
+    color: white;
+    background: rgb(36, 36, 36);
+}
